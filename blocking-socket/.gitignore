@@ -36,7 +36,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-netty-*/.idea/*
-echo-*/.idea/*
-blocking-socket/.idea/*
-non-blocking-socket/.idea/*
